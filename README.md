@@ -30,11 +30,14 @@ La guía de instalación debe contener de manera específica:
 
 # 🧑‍🍳 Autores
 
-Incluir lista de autores originales
+Geoflow-SPH es desarrollado por el **Department of Applied Mathematics, ETS Ingenieros de Caminos, Universidad Politécnica de Madrid** con apoyo del **Banco Interamericano de Desarrollo**
+
+Manuel Pastor, Saeid M. Tayyebi, Miguel M. Stickle, Ángel Yagüe, Miguel Molinos, Pedro Navas & Diego Manzanal
 
 # 📚 Publicaciones
 
-Incluir lista de publicaciones relacionadas
+1. Pastor, M., Tayyebi, S.M., Stickle, M.M. et al. A depth integrated, coupled, two-phase model for debris flow propagation. Acta Geotech. 16, 2409–2433 (2021). https://doi.org/10.1007/s11440-020-01114-4
+2. Saeid Moussavi Tayyebi, Manuel Pastor, Miguel Martin Stickle, Ángel Yagüe, Diego Manzanal, Miguel Molinos, Pedro Navas, (2022). SPH numerical modelling of landslide movements as coupled two-phase flows with a new solution for the interaction term. European Journal of Mechanics - B/Fluids. Volume 96. Pages 1-14, https://doi.org/10.1016/j.euromechflu.2022.06.002.
 
 # 📑 Licencia
 
