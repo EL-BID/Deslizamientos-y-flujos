@@ -2,7 +2,7 @@
 
 
 ![My Image](images/Logo-BW.png)
- ![version](https://img.shields.io/badge/version-0.1.0-blue)
+![version](https://img.shields.io/badge/version-0.1.0-blue)
 
 # ✨ Descripción
 
@@ -38,7 +38,7 @@ Incluir lista de publicaciones relacionadas
 
 # 📑 Licencia
 
-Copyright© 2025. Banco Interamericano de Desarrollo ("BID"). Uso autorizado. AM-331-A3
+Copyright© 2025. Banco Interamericano de Desarrollo ("BID"). Uso autorizado [AM-331-A3](https://github.com/EL-BID/Deslizamientos-y-flujos/blob/v0.1_WIP/LICENSE.md)
 
 ## Limitación de responsabilidades
 
