@@ -8,6 +8,14 @@
 
 # ✨ Descripción
 
+La plataforma desarrollada está programada en lenguaje Fortran 90/95, que permite incorporar utilidades avanzadas. Incorpora una serie de módulos, de los cuales, los más importantes son los dedicados a:
+
+-	Control y gestión del programa
+-	Tratamiento de modelos digitales de terreno 
+-	Herramientas SPH de tipo general
+-	Cálculo para disparo y propagación
+-	Cálculo probabilista de la vulnerabilidad 
+
 En la plataforma que se ha almacenado, se incluyen dos modelos que permiten estudiar la iniciación o disparo del deslizamiento y su propagación.
 
 El módulo de iniciación permite a partir de los modelos geológicos geotécnicos bicapa propuestos para el área de estudio y de la caracterización de los factores disparadores, realizar el análisis de estabilidad de taludes considerando mecanismos de falla tipo traslacionales, de poca profundidad y con grandes velocidades de deformación. 
