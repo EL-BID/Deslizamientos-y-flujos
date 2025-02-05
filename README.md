@@ -29,11 +29,15 @@ Incluir aquí la información
 
 # 💻 Guía de Instalación
 
-Incluir aquí la información
+El código de fuente de Geoflow-SPH se encuentra disponible en la carpeta [Codes Geoflow-SPH](https://github.com/EL-BID/Deslizamientos-y-flujos/tree/v0.1_WIP/Codes%20Geoflow_SPH). Este es un set de archivos .f90 desarrollados en el lenguaje Fortran 90/95. Para su uso y ejecución se requiere compilarlos considerando lo siguiente:
+
+- **Compilador**: Se requiere un compilador de Fortran, el cual se recomienda [**GNU Fortran**](https://gcc.gnu.org/fortran/) o similar
+- **Dependencias**: INCLUIR 
+- **Sistema Operativo**: INCLUIR
 
 # 👓 Ejemplos 
 
-Para asistir con la adopción de la plataforma, se proveen ejemplos de deslizamientos históricos con información detallada y archivos de entrada. La finalidad de los ejemplos es que los usuarios tengan la capacidad de explorar la definición de información de una evaluación en los archivos de entrada, así como los resultados obtenidos por la plataforma. Los siguientes ejemplos se incluyen en el folder EJEMPLOS:
+Para asistir con la adopción de la plataforma, se proveen ejemplos de deslizamientos históricos con información detallada y archivos de entrada. La finalidad de los ejemplos es que los usuarios tengan la capacidad de explorar la definición de información de una evaluación en los archivos de entrada, así como los resultados obtenidos por la plataforma. Los siguientes ejemplos se incluyen en el folder [EJEMPLOS](https://github.com/EL-BID/Deslizamientos-y-flujos/tree/v0.1_WIP/EJEMPLOS):
 
 - The Frank Slide, Alberta, Canada (1903)
 - The Tsing Shan Debris Flow, Hong Kong (1990)
