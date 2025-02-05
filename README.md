@@ -29,14 +29,15 @@ Incluir aquí la información
 
 # 💻 Guía de Instalación
 
-Paso a paso de cómo instalar la herramienta digital. En esta sección es recomendable explicar la arquitectura de carpetas y módulos que componen el sistema.
+Incluir aquí la información
 
-Según el tipo de herramienta digital, el nivel de complejidad puede variar. En algunas ocasiones puede ser necesario instalar componentes que tienen dependencia con la herramienta digital. Si este es el caso, añade también la siguiente sección.
+# 👓 Ejemplos 
 
-La guía de instalación debe contener de manera específica:
-- Los requisitos del sistema operativo para la compilación (versiones específicas de librerías, software de gestión de paquetes y dependencias, SDKs y compiladores, etc.).
-- Las dependencias propias del proyecto, tanto externas como internas (orden de compilación de sub-módulos, configuración de ubicación de librerías dinámicas, etc.).
-- Pasos específicos para la compilación del código fuente y ejecución de tests unitarios en caso de que el proyecto disponga de ellos.
+Para asistir con la adopción de la plataforma, se proveen ejemplos de deslizamientos históricos con información detallada y archivos de entrada. La finalidad de los ejemplos es que los usuarios tengan la capacidad de explorar la definición de información de una evaluación en los archivos de entrada, así como los resultados obtenidos por la plataforma. Los siguientes ejemplos se incluyen en el folder EJEMPLOS:
+
+- The Frank Slide, Alberta, Canada (1903)
+- The Tsing Shan Debris Flow, Hong Kong (1990)
+- El Picacho Landslide, El Salvador (1982)
 
 # 🧑‍🍳 Autores
 
