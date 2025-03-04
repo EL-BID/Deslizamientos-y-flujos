@@ -42,6 +42,9 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 4.	Choose an arbitrary location to save the output.
 5.	Click **Run** to generate the **.TOP** file.
 
+![8](https://github.com/user-attachments/assets/e4aabf21-423d-49f1-8de0-6fad3cd34120)
+![9](https://github.com/user-attachments/assets/49b928e1-7578-4bd7-a972-44ca26afc78d)
+
 ## Step 5: Convert Points to PTS Format
 
 1.	Open the **Processing Toolbox**.
@@ -50,6 +53,9 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 4.	Set **z** as the **Height field**.
 5.	Choose an arbitrary location to save the output.
 6.	Click **Run** to generate the **.PTS** file.
+
+![10](https://github.com/user-attachments/assets/603cc544-c0ee-4935-b946-482acb90337e)
+
 
 ## Step 6: Run the SPH Model
 
@@ -71,6 +77,12 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 4.	Add it to the **QGIS layer**.
 5.	Open **Temporal Controller**.
 6.	Click **Play** to visualize the simulation.
+
+![10](https://github.com/user-attachments/assets/7c7cb14e-0579-4a6c-a1f8-13f5dbc6933d)
+
+
+![Untitled Project4](https://github.com/user-attachments/assets/b0665a18-f24f-4d7e-ac89-100d069de9c3)
+
 
 **Final Notes**:
 - Ensure all required input files are correctly formatted before running the tools.
