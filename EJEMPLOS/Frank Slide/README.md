@@ -69,6 +69,7 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 - Ensure all required input files are correctly formatted before running the tools.
 - Store intermediate files in an organized manner to avoid confusion.
 - If errors occur, check the processing log for troubleshooting.
+
 This guide provides a step-by-step approach to using the Disaster Risk Management IADB Toolbox efficiently in QGIS.
 
 
