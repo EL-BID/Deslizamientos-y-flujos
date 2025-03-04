@@ -38,11 +38,13 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 1.	Open the **Processing Toolbox**.
 2.	Navigate to **IADB** → **Tools** → **DEM to TOP**.
+
+![8](https://github.com/user-attachments/assets/e4aabf21-423d-49f1-8de0-6fad3cd34120)
+
 3.	Select **dem.tif** as the input file.
 4.	Choose an arbitrary location to save the output.
 5.	Click **Run** to generate the **.TOP** file.
 
-![8](https://github.com/user-attachments/assets/e4aabf21-423d-49f1-8de0-6fad3cd34120)
 ![9](https://github.com/user-attachments/assets/49b928e1-7578-4bd7-a972-44ca26afc78d)
 
 ## Step 5: Convert Points to PTS Format
