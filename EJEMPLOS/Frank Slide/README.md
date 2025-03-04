@@ -80,6 +80,7 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 ![10](https://github.com/user-attachments/assets/7c7cb14e-0579-4a6c-a1f8-13f5dbc6933d)
 
+If everything has been done correctly, this animation should be displayed:
 
 ![Untitled Project4](https://github.com/user-attachments/assets/b0665a18-f24f-4d7e-ac89-100d069de9c3)
 
