@@ -75,12 +75,12 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 1.	Navigate to the output folder and locate **Picacho.nc**.
 2.	Open **Data Source Manager**.
-3.	Select **Mes**h and upload **Picacho.nc**.
+3.	Select **Mesh** and upload **Picacho.nc**.
 4.	Add it to the **QGIS layer**.
 5.	Open **Temporal Controller**.
 6.	Click **Play** to visualize the simulation.
 
-![10](https://github.com/user-attachments/assets/7c7cb14e-0579-4a6c-a1f8-13f5dbc6933d)
+![5](https://github.com/user-attachments/assets/19500d47-fd08-4332-a708-8fade9a366fa)
 
 If everything has been done correctly, this animation should be displayed:
 
