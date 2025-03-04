@@ -12,7 +12,7 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 2.	Go to **Plugins** in the top menu and click on **Manage and Install Plugins**.
 3.	In the search bar, type **Disaster Risk Management IADB Toolbox**.
 4.	Select the plugin and click **Install**.
-5.	
+
 ![1](https://github.com/user-attachments/assets/a7a9d026-82d6-4172-b5b6-d072cd039831)
 
 ## Step 2: Configure the Plugin
