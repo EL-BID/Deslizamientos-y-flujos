@@ -12,6 +12,7 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 2.	Go to **Plugins** in the top menu and click on **Manage and Install Plugins**.
 3.	In the search bar, type **Disaster Risk Management IADB Toolbox**.
 4.	Select the plugin and click **Install**.
+5.	
 ![1](https://github.com/user-attachments/assets/a7a9d026-82d6-4172-b5b6-d072cd039831)
 
 ## Step 2: Configure the Plugin
@@ -19,6 +20,8 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 1.	Go to **Setting**s in the top menu and click **Options**.
 2.	Navigate to the **Processing** section.
 3.	Upload the required **executable file** to enable processing.
+
+![3](https://github.com/user-attachments/assets/1bf7c4ef-0b10-4309-91a1-805ad7d79381)
 
 ## Step 3: Upload Input Files
 
@@ -28,10 +31,13 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 2.	Store both files in the **INPUT** folder.
 3.	Open QGIS and upload these files to the project.
 
+![7](https://github.com/user-attachments/assets/35985b07-2184-467a-a52f-8b17b7d84751)
+
+
 ## Step 4: Convert DEM to TOP Format
 
 1.	Open the **Processing Toolbox**.
-2.	Navigate to **IADB** → **Tools** → **DEM to TO**P.
+2.	Navigate to **IADB** → **Tools** → **DEM to TOP**.
 3.	Select **dem.tif** as the input file.
 4.	Choose an arbitrary location to save the output.
 5.	Click **Run** to generate the **.TOP** file.
