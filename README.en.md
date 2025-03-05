@@ -82,6 +82,10 @@ The end goal of these examples is for the users to be able to explore how detail
 - The Tsing Shan Debris Flow, Hong Kong (1990)
 - El Picacho Landslide, El Salvador (1982)
 
+# 👓 Case study: The Frank Slide
+
+![1-ezgif com-crop](https://github.com/user-attachments/assets/6c4b99c4-2d4a-48ce-ad6a-0104faf23883)![2-ezgif com-crop](https://github.com/user-attachments/assets/c6005387-3aef-465b-b284-4ed529f6ac43)
+  
 # 🧑‍🍳 Authors
 
 Geoflow-SPH is developed by the **Department of Applied Mathematics, ETS Ingenieros de Caminos, Universidad Politécnica de Madrid** with the support of the **Interamerican Development Bank**
