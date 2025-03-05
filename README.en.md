@@ -84,7 +84,7 @@ The end goal of these examples is for the users to be able to explore how detail
 
 # 👓 Case study: The Frank Slide
 
-<img src="https://github.com/user-attachments/assets/374a571f-2250-42ac-b141-be9423561b15" alt="1-ezgif com-crop" width="500" height="400">
+<img src="https://github.com/user-attachments/assets/374a571f-2250-42ac-b141-be9423561b15" alt="1-ezgif com-crop" width="500" height="400"><img src="[https://github.com/user-attachments/assets/374a571f-2250-42ac-b141-be9423561b15](https://github.com/user-attachments/assets/37b7c4df-11ed-4630-a077-d5d7c9648228)" alt="1-ezgif com-crop" width="500" height="400">
 
 ![1-ezgif com-crop](https://github.com/user-attachments/assets/374a571f-2250-42ac-b141-be9423561b15)![2-ezgif com-crop](https://github.com/user-attachments/assets/37b7c4df-11ed-4630-a077-d5d7c9648228)
 
