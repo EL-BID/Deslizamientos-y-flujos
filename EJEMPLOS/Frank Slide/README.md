@@ -104,7 +104,7 @@ If everything has been done correctly, this animation should be displayed:
 
 This guide provides a step-by-step approach to using the Disaster Risk Management IADB Toolbox efficiently in QGIS.
 
-The numerical analysis of the PICACHO LANDSLIDE was conducted using a straightforward one-phase model. It is evident that substantial material is flowing out of the impacted area. To achieve more accurate results for this case study, we recommend adopting the advanced TWO-PHASE TWO-LAYER MODEL. If you are interested in implementing this advanced approach, we suggest reading the article by Pastor et al. (2023).
+The numerical analysis of the PICACHO LANDSLIDE was conducted using a straightforward one-phase model. It is evident that substantial material is flowing out of the impacted area. To achieve more accurate results for this case study, we recommend adopting the advanced TWO-PHASE TWO-LAYER MODEL. If you are interested in implementing this advanced approach, we suggest reading the article by [**Pastor et al. (2024)**](https://doi.org/10.1016/j.compgeo.2024.106581).
 
 
 
