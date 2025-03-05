@@ -113,7 +113,7 @@ The simulation outputs two files in the directory:
 -	myproblem.POST.MESH: Containing the topography and particle data.
 -	myproblem.POST.RES. This file will be read by [**GiD**](https://www.gidsimulation.com/), which contains the results of all the variables calculated at various times (the times are determined by the interval specified in the MASTER.DAT file for writing to the output file).
 
-**F2D and 3D Visualization**F: Using user-friendly [**GiD**](https://www.gidsimulation.com/) software, developed by CIMNE in Barcelona.
+**2D and 3D Visualization**: Using user-friendly [**GiD**](https://www.gidsimulation.com/) software, developed by CIMNE in Barcelona.
 
 Consequently, the preprocessor GeoFlow and the postprocessor [**GiD**](https://www.gidsimulation.com/) will be utilized. The postprocessing stage represents the concluding phase of a computational model, during which the results are assessed and visualized.
 
