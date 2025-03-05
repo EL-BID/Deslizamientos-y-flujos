@@ -92,8 +92,6 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 5.	Open **Temporal Controller**.
 6.	Click **Play** to visualize the simulation.
 
-![11](https://github.com/user-attachments/assets/5a30e6c5-aa9a-4a49-87a0-5166577c445e)
-
 If everything has been done correctly, this animation should be displayed:
 
 ![Untitled Project4](https://github.com/user-attachments/assets/b0665a18-f24f-4d7e-ac89-100d069de9c3)
