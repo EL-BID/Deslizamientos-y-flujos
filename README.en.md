@@ -84,8 +84,9 @@ The end goal of these examples is for the users to be able to explore how detail
 
 # 👓 Case study: The Frank Slide
 
-![1-ezgif com-crop](https://github.com/user-attachments/assets/6c4b99c4-2d4a-48ce-ad6a-0104faf23883)![2-ezgif com-crop](https://github.com/user-attachments/assets/c6005387-3aef-465b-b284-4ed529f6ac43)
-  
+![1-ezgif com-crop](https://github.com/user-attachments/assets/374a571f-2250-42ac-b141-be9423561b15)![2-ezgif com-crop](https://github.com/user-attachments/assets/37b7c4df-11ed-4630-a077-d5d7c9648228)
+
+ 
 # 🧑‍🍳 Authors
 
 Geoflow-SPH is developed by the **Department of Applied Mathematics, ETS Ingenieros de Caminos, Universidad Politécnica de Madrid** with the support of the **Interamerican Development Bank**
