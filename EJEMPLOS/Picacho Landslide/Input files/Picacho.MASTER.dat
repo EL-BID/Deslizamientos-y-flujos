@@ -1,0 +1,18 @@
+1
+Picacho caso base modif tanFi Xi h 
+if_sph if_gfl if_tgf
+  1      0      0
+SPH_problem_type   SPH_t_integ_Alg
+       1               4
+sph problem name
+Picacho
+dt      time_end   maxtimesteps
+0.5      1000.00       1000000
+print_step   save_step  plot_step
+ 50           50        50
+dt_sph  ic_adapt    
+0.1      1  
+ Ntime curves     max pts in them   *** not used here
+      0              6  
+win
+0
