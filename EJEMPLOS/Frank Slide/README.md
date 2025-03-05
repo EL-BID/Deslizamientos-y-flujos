@@ -106,6 +106,9 @@ This guide provides a step-by-step approach to using the Disaster Risk Managemen
 
 The numerical analysis of the PICACHO LANDSLIDE was conducted using a straightforward one-phase model. It is evident that substantial material is flowing out of the impacted area. To achieve more accurate results for this case study, we recommend adopting the advanced TWO-PHASE TWO-LAYER MODEL. If you are interested in implementing this advanced approach, we suggest reading the article by [**Pastor et al. (2024)**](https://doi.org/10.1016/j.compgeo.2024.106581).
 
+![2](https://github.com/user-attachments/assets/793f6ab0-4d1a-4414-99bd-0e295ca6a213)
+
+
 
 
 
