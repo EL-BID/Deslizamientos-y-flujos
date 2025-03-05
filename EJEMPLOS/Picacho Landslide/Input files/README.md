@@ -87,18 +87,19 @@ It is an input file where the necessary information to model the problem is stor
 **chk_pts**: control for output points at which to check solution. (0 by default, Professional users can give value)
 
 **Gid_Mask_SW**: In order to avoid excessive output data, in the filtering vector it will be selected by typing 1 the variables we want to be in the output.
-1.hs  soil height  (1 for activate and 0 for inactive) 
-2.disp displacement   (1 for activate and 0 for inactive) 
-3.v velocity   (1 for activate and 0 for inactive) 
-4.Pwb Basal pore water pressure   (1 for activate and 0 for inactive) 
-5.eros erosion height  (1 for activate and 0 for inactive) 
-6.Z Terrain Elevation (1 for activate and 0 for inactive)  
-7.hrel Relative height  (1 for activate and 0 for inactive)  
-8.hw Water height  (1 for activate and 0 for inactive) 
-9.eta porosity  (1 for activate and 0 for inactive)  
-10.hs+hw Total height  (1 for activate and 0 for inactive) 
-11.hsat Saturated height (1 for activate and 0 for inactive) 
-12.Pw Pore-water pressure (1 for activate and 0 for inactive)  
+
+1. **hs**: soil height  (1 for activate and 0 for inactive) 
+2. **disp**: displacement   (1 for activate and 0 for inactive) 
+3. **v**: velocity   (1 for activate and 0 for inactive) 
+4. **Pwb**: Basal pore water pressure   (1 for activate and 0 for inactive) 
+5. **eros**: erosion height  (1 for activate and 0 for inactive) 
+6. **Z**: Terrain Elevation (1 for activate and 0 for inactive)  
+7. **hrel**: Relative height  (1 for activate and 0 for inactive)  
+8. **hw**: Water height  (1 for activate and 0 for inactive) 
+9. **eta**: porosity  (1 for activate and 0 for inactive)  
+10. **hs+hw**: Total height  (1 for activate and 0 for inactive) 
+11. **hsat**: Saturated height (1 for activate and 0 for inactive) 
+12. **Pw**: Pore-water pressure (1 for activate and 0 for inactive)  
 
 **T_change_to_W**: (1.e+12 by default, Professional users can give value)
 
