@@ -71,6 +71,8 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 4.	Choose an output folder to store results.
 5.	Click **Run** to start the simulation.
 
+![11](https://github.com/user-attachments/assets/a0e0b1e2-0036-4c65-9ab9-19a2acc9150e)
+
 ## Step 7: Convert Results to NetCDF Format
 
 1. In the chosen folder where the results are stored, you can see the output files such as **Picacho.QGIS_res**.
