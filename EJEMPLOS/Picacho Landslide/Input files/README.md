@@ -117,7 +117,7 @@ It is the file giving general inputs to the program. It gives information about 
 
 **problem_type**: General type of problem (always 1): 
 
-**Integ_Alg **: Analysis type (4 for propagtin modeling and 200 for triggering modeling) 
+**Integ_Alg**: Analysis type (4 for propagtin modeling and 200 for triggering modeling) 
 
 **file.dat**: Problem name (for the .dat file)
 
