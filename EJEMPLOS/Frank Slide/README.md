@@ -71,7 +71,17 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 4.	Choose an output folder to store results.
 5.	Click **Run** to start the simulation.
 
-## Step 7: Visualize Results in QGIS
+## Step 7: Convert Results to NetCDF Format
+
+1. In the chosen folder where the results are stored, you can see the output files such as **Picacho.QGIS_res**.
+2. Open the **Processing Toolbox**.
+3. Navigate to **IADB** → **Tool**s → **RES to NetCDF**.
+4. Upload the **Picacho.QGIS_res** file.
+5. Convert it to .nc format, suitable for visualizing flow propagation in QGIS.
+
+  ![5](https://github.com/user-attachments/assets/19500d47-fd08-4332-a708-8fade9a366fa)
+
+## Step 8: Visualize Results in QGIS
 
 1.	Navigate to the output folder and locate **Picacho.nc**.
 2.	Open **Data Source Manager**.
