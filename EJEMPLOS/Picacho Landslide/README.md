@@ -97,9 +97,6 @@ If everything has been done correctly, this animation should be displayed:
 ![Untitled Project6](https://github.com/user-attachments/assets/bbe687e7-bcdf-44b9-8bbf-f2771ba81d3d)
 ![Untitled Project1](https://github.com/user-attachments/assets/fcbd0675-bd6f-4e2d-818e-e6372b63cb9f)
 
-![Untitled Project4](https://github.com/user-attachments/assets/b0665a18-f24f-4d7e-ac89-100d069de9c3)
-
-
 **Final Notes**:
 - Ensure all required input files are correctly formatted before running the tools.
 - Store intermediate files in an organized manner to avoid confusion.
