@@ -29,7 +29,7 @@ The hardware requirements for using this program are minimal, which is one of it
 -	Download the Visual Studio 2022 Community edition (or any other edition you prefer).
 -	During installation, ensure you select the Desktop development with C++ workload. This is necessary because the Intel Fortran compiler integrates with the C++ build tools in Visual Studio.
 
-**2. Install Intel® Fortran Compiler**
+**2. Install Fortran Compiler**
 -	Go to the Get the [**Intel® oneAPI HPC Toolkit**](https://www.intel.com/content/www/us/en/developer/tools/oneapi/fortran-compiler.html#gs.mjodbt/).
 -	Download the Intel® Fortran Essentials.
 -	During installation, ensure you select the Intel® Fortran Compiler component. This is essential for compiling Fortran code.
