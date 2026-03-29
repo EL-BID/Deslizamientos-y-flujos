@@ -48,7 +48,7 @@ Para asistir con la adopción de la plataforma, se proveen ejemplos de deslizami
 Geoflow-SPH es desarrollado por el **Department of Applied Mathematics, ETS Ingenieros de Caminos, Universidad Politécnica de Madrid** con apoyo del **Banco Interamericano de Desarrollo**
 
 Equipo de desarrolladores:
-Manuel Pastor, Saeid M. Tayyebi, Miguel M. Stickle, Ángel Yagüe, Miguel Molinos, Pedro Navas & Diego Manzanal
+Manuel Pastor & Saeid Moussavi Tayyebi
 
 # 📚 Publicaciones
 
