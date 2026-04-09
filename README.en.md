@@ -4,7 +4,7 @@
 ![My Image](images/Logo-BW.png)
 ![version](https://img.shields.io/badge/version-0.1.0-blue)
 
-**Geoflow-SPH** es una plataforma de código abierto, desarrollada en Fortran por la **Universidad Politécnica de Madrid**, para el cálculo de deslizamientos geotécnicos y su propagación espacial, basado en el método **S**moothed **P**article **H**ydrodynamics (SPH).
+**Geoflow-SPH** is an open-source platform, developed in Fortran by the **Technical University of Madrid** (Universidad Politécnica de Madrid), for the calculation of geotechnical landslides and their spatial propagation, based on the **S**moothed **P**article **H**ydrodynamics (SPH) method.
 
 # ✨ Overview
 
