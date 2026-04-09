@@ -1,0 +1,35 @@
+      1
+ ---- Yu Tung for 2018  all constants
+ ic_SW_Alg  0 landslides
+  0
+nhist  rndm
+  0     0
+ndimn
+  2
+ic_soil  ic_water  ic_vps  ic_abs
+   1         0       0       0
+Soil unkno  h_inf_SW   
+   7          0.01
+pts file name
+  Picacho 
+pa_sph,  nnps, sle, skf 
+   2       4     1    1         
+sum_den,  av_vel, virt_part , nor_dens  
+    T         T      F            F             
+cgra   dens  cmanning   4.Olderos. nfrict Tauy0   constK  visco   tanfi8  hfrict0    c11   C12   .Bfact     14..   15..Comp  end   
+ 9.8   2000.  300.          0.0       7      0.      0.0     0.    0.6     1.e-2      0.    0.     0.001     1.0     1.e-2  
+K0 activated?
+  0
+icpwp 
+  3
+ pwp0rel
+    1.0
+coarse mesh saving utility?
+  0
+control points?
+  0
+GID filter   1.hs  2.disp 3.v  4.Pw  5 eros   6..Z    7..hrel  8..hw  9..eta  10.hs+hw  11 dumm   12...dumm
+               1      1    1    1      0       1        0       0       0     1          0          0
+T_change_to_W
+  1.e+12    
+  
