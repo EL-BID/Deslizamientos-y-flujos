@@ -22,7 +22,7 @@ This repository contains code for simulating landslides and debris flows using a
 
 The hardware requirements for using this program are minimal, which is one of its greatest advantages; any relatively modern computer (Pentium III or newer) is sufficient. There are also no major limitations regarding the operating system, as both FORTRAN and GID are compatible with Windows and Linux.
 
-**Geoflow-SPH** itself requires no installation, as it runs as a portable executable file. Users can directly run the precompliled executable available in *INSERT LOCATION OF FILE IN REPO*. More advanced users who want to make changes to the source files, can follow these instructions to compile their own executables:
+**Geoflow-SPH** itself requires no installation, as it runs as a portable executable file. Users can directly run the precompliled executable available in [the Examples folder](EJEMPLOS/Picacho%20Landslide/Executive%20file/). More advanced users who want to make changes to the source files, can follow these instructions to compile their own executables:
 
 **1. Install Visual Studio 2022**
 -	Go to the Visual Studio website.
@@ -75,18 +75,10 @@ Consequently, the pre-processor GeoFlow and the post-processor [**GiD**](https:/
 
 # 👓 Examples 
 
-To assist in the adoption of the platform, examples of important historic landslides with their detailed information and input files are provided. 
-The end goal of these examples is for the users to be able to explore how detailed characteristics are incorporated in the input files and how they are reflected in the obtained results. The following examples are included in the [EJEMPLOS](https://github.com/EL-BID/Deslizamientos-y-flujos/tree/v0.1_WIP/EJEMPLOS) folder:
+To assist in the adoption of the platform, an example of an important historic landslides with its detailed information and input files is provided. 
+The end goal of these examples is for the users to be able to explore how detailed characteristics are incorporated in the input files and how they are reflected in the obtained results. The following example is included in the [EJEMPLOS](https://github.com/EL-BID/Deslizamientos-y-flujos/tree/v0.1_WIP/EJEMPLOS) folder:
 
-- The Frank Slide, Alberta, Canada (1903)
-- The Tsing Shan Debris Flow, Hong Kong (1990)
 - El Picacho Landslide, El Salvador (1982)
-
-# Case study: The Frank Slide
-
-<img src="https://github.com/user-attachments/assets/374a571f-2250-42ac-b141-be9423561b15" alt="1-ezgif com-crop" width="500" height="400"><img src="https://github.com/user-attachments/assets/37b7c4df-11ed-4630-a077-d5d7c9648228" alt="1-ezgif com-crop" width="500" height="400">
-
-The numerical analysis of the Frank Slide is performed through the one-phase SPH model.
 
 # 🧑‍🍳 Authors
 
@@ -110,13 +102,13 @@ Manuel Pastor ([@ManuelPastor53](https://github.com/ManuelPastor53)) and Saeid M
 
 # 📑 License
 
-Copyright© 2025. Banco Interamericano de Desarrollo ("BID"). Uso autorizado [AM-331-A3](https://github.com/EL-BID/Deslizamientos-y-flujos/blob/v0.1_WIP/LICENSE.md)
+Copyright© 2025. Banco Interamericano de Desarrollo ("BID"). Authorized use [AM-331-A3](https://github.com/EL-BID/Deslizamientos-y-flujos/blob/v0.1_WIP/LICENSE.md)
 
 ## Limitation of responsibility
 
-El BID no será responsable, bajo circunstancia alguna, de daño ni indemnización, moral o patrimonial; directo o indirecto; accesorio o especial; o por vía de consecuencia, previsto o imprevisto, que pudiese surgir:
+The Inter-American Development Bank shall not be liable, under any circumstances, for any damages or compensation, whether non-pecuniary (moral) or material; direct or indirect; incidental or special; or consequential, whether foreseeable or unforeseeable, that may arise:
 
-i. Bajo cualquier teoría de responsabilidad, ya sea por contrato, infracción de derechos de propiedad intelectual, negligencia o bajo cualquier otra teoría; y/o
+i. Under any theory of liability, whether in contract, infringement of intellectual property rights, negligence, or under any other theory; and/or
 
-ii. A raíz del uso de la Herramienta Digital, incluyendo, pero sin limitación de potenciales defectos en la Herramienta Digital, o la pérdida o inexactitud de los datos de cualquier tipo. Lo anterior incluye los gastos o daños asociados a fallas de comunicación y/o fallas de funcionamiento de computadoras, vinculados con la utilización de la Herramienta Digital.
+ii. As a result of the use of the Digital Tool, including, but not limited to, potential defects in the Digital Tool, or the loss or inaccuracy of data of any kind. The foregoing includes expenses or damages associated with communication failures and/or computer malfunctions linked to the use of the Digital Tool.
 
