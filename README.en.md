@@ -4,6 +4,8 @@
 ![My Image](images/Logo-BW.png)
 ![version](https://img.shields.io/badge/version-0.1.0-blue)
 
+> 🌍 **Leer documentación en [Español](README.md)**
+
 **Geoflow-SPH** is an open-source platform, developed in Fortran by the **Technical University of Madrid** (Universidad Politécnica de Madrid), for the calculation of geotechnical landslides and their spatial propagation, based on the **S**moothed **P**article **H**ydrodynamics (SPH) method.
 
 # ✨ Overview
