@@ -45,6 +45,12 @@ The hardware requirements for using this program are minimal, which is one of it
 
 Results can be visualized using QGIS, an open-source and freely available geographic information system.
 
+#### Workflow
+- GeoFlow acts as the **pre-processor**
+- QGIS is used for **post-processing and visualization**
+
+The post-processing stage represents the final phase of the computational workflow, where simulation results are analyzed and interpreted.
+
 **Alternative Option: GiD Simulation**
 
 Visualization can also be performed using GiD (version 7.5 or higher), a pre- and post-processing tool developed by CIMNE. To view the results, users are directed to [**GiD Simulation**](https://www.gidsimulation.com/) software, version 7.5 or higher.
