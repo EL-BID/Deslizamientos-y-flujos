@@ -41,8 +41,13 @@ The hardware requirements for using this program are minimal, which is one of it
 
 **4. Visualization**
 
-Visualization of results is done externally from GeoFlow. To view the results, users are directed to [**GiD Simulation**](https://www.gidsimulation.com/) software, version 7.5 or higher.
+**Primary Option (Recommended): QGIS**
 
+Results can be visualized using QGIS, an open-source and freely available geographic information system.
+
+**Alternative Option: GiD Simulation**
+
+Visualization can also be performed using GiD (version 7.5 or higher), a pre- and post-processing tool developed by CIMNE. To view the results, users are directed to [**GiD Simulation**](https://www.gidsimulation.com/) software, version 7.5 or higher.
 
 # 📄 User Guide
 
