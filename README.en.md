@@ -80,6 +80,7 @@ The program requires a set of ASCII data files to be prepared before running a p
 
 The simulation outputs two files in the directory:
 
+-	myproblem.nc: A NetCDF file containing a time dimension and spatial grid structure (i.e., raster-like data) can be directly imported and visualized in **QGIS**.
 -	myproblem.POST.MESH: Containing the topography and particle data.
 -	myproblem.POST.RES. This file will be read by [**GiD**](https://www.gidsimulation.com/), which contains the results of all the variables calculated at various times (the times are determined by the interval specified in the MASTER.DAT file for writing to the output file).
 
