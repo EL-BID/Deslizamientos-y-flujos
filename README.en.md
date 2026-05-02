@@ -43,11 +43,11 @@ The hardware requirements for using this program are minimal, which is one of it
 
 **Opción principal (recomendada): QGIS**
 
-Los resultados pueden visualizarse utilizando **:contentReference[oaicite:0]{index=0}**, un sistema de información geográfica de código abierto y de libre acceso.
+Los resultados pueden visualizarse utilizando **QGIS**, un sistema de información geográfica de código abierto y de libre acceso.
 
 #### Flujo de trabajo
 - GeoFlow actúa como **preprocesador**
-- QGIS :contentReference[oaicite:1]{index=1} se utiliza para **posprocesamiento y visualización**
+- QGIS se utiliza para **posprocesamiento y visualización**
 
 La etapa de posprocesamiento representa la fase final del flujo de trabajo computacional, en la cual los resultados de la simulación son analizados e interpretados.
 
