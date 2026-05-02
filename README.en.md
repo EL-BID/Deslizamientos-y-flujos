@@ -39,24 +39,24 @@ The hardware requirements for using this program are minimal, which is one of it
 **3. Compile Fortran Code**
 -	Compile the Fortran code using the Intel Fortran compiler and generate an .exe file.
 
-**4. Visualization**
+**4. Visualización**
 
-**Primary Option (Recommended): QGIS**
+**Opción principal (recomendada): QGIS**
 
-Results can be visualized using QGIS, an open-source and freely available geographic information system.
+Los resultados pueden visualizarse utilizando **:contentReference[oaicite:0]{index=0}**, un sistema de información geográfica de código abierto y de libre acceso.
 
-#### Workflow
-- GeoFlow acts as the **pre-processor**
-- QGIS is used for **post-processing and visualization**
+#### Flujo de trabajo
+- GeoFlow actúa como **preprocesador**
+- QGIS :contentReference[oaicite:1]{index=1} se utiliza para **posprocesamiento y visualización**
 
-The post-processing stage represents the final phase of the computational workflow, where simulation results are analyzed and interpreted.
+La etapa de posprocesamiento representa la fase final del flujo de trabajo computacional, en la cual los resultados de la simulación son analizados e interpretados.
 
-**Alternative Option: GiD Simulation**
+**Opción alternativa: GiD Simulation**
 
-Visualization can also be performed using GiD (version 7.5 or higher), a pre- and post-processing tool developed by CIMNE. To view the results, users are directed to [**GiD Simulation**](https://www.gidsimulation.com/) software, version 7.5 or higher.
+La visualización también puede realizarse mediante GiD (versión 7.5 o superior), una herramienta de pre y posprocesamiento desarrollada por CIMNE. Para visualizar los resultados, se recomienda el uso del software [GiD Simulation](https://www.gidsimulation.com/), versión 7.5 o superior.
 
-- Supports both **2D and 3D visualization**
-- Provides a graphical interface for advanced post-processing
+- Soporta visualización **2D y 3D**
+- Proporciona una interfaz gráfica para posprocesamiento avanzado
 
 # 📄 User Guide
 
