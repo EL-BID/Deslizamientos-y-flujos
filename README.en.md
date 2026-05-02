@@ -55,6 +55,9 @@ The post-processing stage represents the final phase of the computational workfl
 
 Visualization can also be performed using GiD (version 7.5 or higher), a pre- and post-processing tool developed by CIMNE. To view the results, users are directed to [**GiD Simulation**](https://www.gidsimulation.com/) software, version 7.5 or higher.
 
+- Supports both **2D and 3D visualization**
+- Provides a graphical interface for advanced post-processing
+
 # 📄 User Guide
 
 Please be aware that this is not designed to be a comprehensive manual for the GeoFlow code, but rather a guide to facilitate learning its usage progressively.
@@ -79,12 +82,6 @@ The simulation outputs two files in the directory:
 
 -	myproblem.POST.MESH: Containing the topography and particle data.
 -	myproblem.POST.RES. This file will be read by [**GiD**](https://www.gidsimulation.com/), which contains the results of all the variables calculated at various times (the times are determined by the interval specified in the MASTER.DAT file for writing to the output file).
-
-## Visualization
-•	2D and 3D Visualization: Using user-friendly [**GiD**](https://www.gidsimulation.com/) software, developed by CIMNE in Barcelona.
-
-Consequently, the pre-processor GeoFlow and the post-processor [**GiD**](https://www.gidsimulation.com/) will be utilized. The post-processing stage represents the concluding phase of a computational model, during which the results are assessed and visualized.
-
 
 # 👓 Examples 
 
