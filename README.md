@@ -43,7 +43,7 @@ Los requisitos de hardware para utilizar este programa son mínimos; cualquier o
 
 Los resultados pueden visualizarse utilizando **:contentReference[oaicite:0]{index=0}**, un sistema de información geográfica de código abierto y de libre acceso.
 
-** Flujo de trabajo **
+** Flujo de trabajo**
 - GeoFlow actúa como **preprocesador**
 - :contentReference[oaicite:1]{index=1} se utiliza para **posprocesamiento y visualización**
 
