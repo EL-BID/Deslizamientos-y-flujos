@@ -37,7 +37,7 @@ Los requisitos de hardware para utilizar este programa son mínimos; cualquier o
 **3. Compilar el Código Fortran**
 - Compile el código utilizando el compilador Intel Fortran para generar un archivo .exe.
 
-## 4. Visualización
+**4. Visualización**
 
 **Opción principal (recomendada): QGIS**
 
