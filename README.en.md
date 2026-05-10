@@ -39,24 +39,24 @@ The hardware requirements for using this program are minimal, which is one of it
 **3. Compile Fortran Code**
 -	Compile the Fortran code using the Intel Fortran compiler and generate an .exe file.
 
-**4. Visualización**
+**4. Visualization**
 
-**Opción principal (recomendada): QGIS**
+**Primary Option (Recommended): QGIS**
 
-Los resultados pueden visualizarse utilizando **QGIS**, un sistema de información geográfica de código abierto y de libre acceso.
+Results can be visualized using QGIS, an open-source and freely available geographic information system.
 
-#### Flujo de trabajo
-- GeoFlow actúa como **preprocesador**
-- QGIS se utiliza para **posprocesamiento y visualización**
+#### Workflow
+- GeoFlow acts as the **pre-processor**
+- QGIS is used for **post-processing and visualization**
 
-La etapa de posprocesamiento representa la fase final del flujo de trabajo computacional, en la cual los resultados de la simulación son analizados e interpretados.
+The post-processing stage represents the final phase of the computational workflow, where simulation results are analyzed and interpreted.
 
-**Opción alternativa: GiD Simulation**
+**Alternative Option: GiD Simulation**
 
-La visualización también puede realizarse mediante GiD (versión 7.5 o superior), una herramienta de pre y posprocesamiento desarrollada por CIMNE. Para visualizar los resultados, se recomienda el uso del software [GiD Simulation](https://www.gidsimulation.com/), versión 7.5 o superior.
+Visualization can also be performed using GiD (version 7.5 or higher), a pre- and post-processing tool developed by CIMNE. To view the results, users are directed to [**GiD Simulation**](https://www.gidsimulation.com/) software, version 7.5 or higher.
 
-- Soporta visualización **2D y 3D**
-- Proporciona una interfaz gráfica para posprocesamiento avanzado
+- Supports both **2D and 3D visualization**
+- Provides a graphical interface for advanced post-processing
 
 # 📄 User Guide
 
