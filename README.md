@@ -39,17 +39,17 @@ Los requisitos de hardware para utilizar este programa son mínimos; cualquier o
 
 ## 4. Visualización
 
-### Opción principal (recomendada): QGIS
+**Opción principal (recomendada): QGIS**
 
 Los resultados pueden visualizarse utilizando **:contentReference[oaicite:0]{index=0}**, un sistema de información geográfica de código abierto y de libre acceso.
 
-#### Flujo de trabajo
+** Flujo de trabajo **
 - GeoFlow actúa como **preprocesador**
 - :contentReference[oaicite:1]{index=1} se utiliza para **posprocesamiento y visualización**
 
 La etapa de posprocesamiento representa la fase final del flujo de trabajo computacional, en la cual los resultados de la simulación son analizados e interpretados.
 
-### Opción alternativa: GiD Simulation
+**Opción alternativa: GiD Simulation**
 
 La visualización también puede realizarse mediante GiD (versión 7.5 o superior), una herramienta de pre y posprocesamiento desarrollada por CIMNE. Para visualizar los resultados, se recomienda el uso del software [GiD Simulation](https://www.gidsimulation.com/), versión 7.5 o superior.
 
