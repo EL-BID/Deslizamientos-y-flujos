@@ -75,7 +75,7 @@ El programa requiere un conjunto de archivos de datos ASCII. Asumiendo que el no
 
 ## Resultados (Output)
 La simulación genera dos archivos principales:
-- `miproyecto.nc`: Un archivo NetCDF que contiene una dimensión temporal y una estructura de rejilla espacial (es decir, datos tipo raster) puede importarse y visualizarse directamente en QGIS.
+- `miproyecto.NC`: Un archivo NetCDF que contiene una dimensión temporal y una estructura de rejilla espacial (es decir, datos tipo raster) puede importarse y visualizarse directamente en QGIS.
 - `miproyecto.POST.MESH`: Contiene la topografía y los datos de las partículas.
 - `miproyecto.POST.RES`: Archivo de resultados para ser leído por [**GiD**](https://www.gidsimulation.com/), con las variables calculadas en los intervalos especificados.
 
