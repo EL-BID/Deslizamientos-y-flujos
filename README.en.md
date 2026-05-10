@@ -39,8 +39,22 @@ The hardware requirements for using this program are minimal, which is one of it
 
 **4. Visualization**
 
-Visualization of results is done externally from GeoFlow. To view the results, users are directed to [**GiD Simulation**](https://www.gidsimulation.com/) software, version 7.5 or higher.
+**Primary Option (Recommended): QGIS**
 
+Results can be visualized using QGIS, an open-source and freely available geographic information system.
+
+#### Workflow
+- GeoFlow acts as the **pre-processor**
+- QGIS is used for **post-processing and visualization**
+
+The post-processing stage represents the final phase of the computational workflow, where simulation results are analyzed and interpreted.
+
+**Alternative Option: GiD Simulation**
+
+Visualization can also be performed using GiD (version 7.5 or higher), a pre- and post-processing tool developed by CIMNE. To view the results, users are directed to [**GiD Simulation**](https://www.gidsimulation.com/) software, version 7.5 or higher.
+
+- Supports both **2D and 3D visualization**
+- Provides a graphical interface for advanced post-processing
 
 # 📄 User Guide
 
@@ -64,6 +78,7 @@ The program requires a set of ASCII data files to be prepared before running a p
 
 The simulation outputs two files in the directory:
 
+-	myproblem.nc: A NetCDF file containing a time dimension and spatial grid structure (i.e., raster-like data) can be directly imported and visualized in QGIS.
 -	myproblem.POST.MESH: Containing the topography and particle data.
 -	myproblem.POST.RES. This file will be read by [**GiD**](https://www.gidsimulation.com/), which contains the results of all the variables calculated at various times (the times are determined by the interval specified in the MASTER.DAT file for writing to the output file).
 
