@@ -56,6 +56,9 @@ La visualización también puede realizarse mediante GiD (versión 7.5 o superio
 - Soporta visualización **2D y 3D**
 - Proporciona una interfaz gráfica para posprocesamiento avanzado
 
+> ⚠️ **Nota sobre mantenimiento**: El ejemplo basado en tecnología propietaria no cuenta con mantenimiento activo por parte del equipo. El ejemplo recomendado y mantenido es el que utiliza QGIS como dependencia principal.
+
+
 # 📄 Guía del Usuario
 
 Este documento no es un manual exhaustivo del código GeoFlow, sino una guía para facilitar el aprendizaje progresivo de su uso.
