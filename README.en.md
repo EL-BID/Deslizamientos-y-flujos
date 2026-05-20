@@ -58,6 +58,9 @@ Visualization can also be performed using GiD (version 7.5 or higher), a pre- an
 - Supports both **2D and 3D visualization**
 - Provides a graphical interface for advanced post-processing
 
+> ⚠️ **Note about maintenance**: The option based on proprietary tecnology is not under active maintenance by the development team. The recommended option, which will be maintained, is the one that uses QGIS for visualization.
+
+
 # 📄 User Guide
 
 Please be aware that this is not designed to be a comprehensive manual for the GeoFlow code, but rather a guide to facilitate learning its usage progressively.
