@@ -41,7 +41,7 @@ Los requisitos de hardware para utilizar este programa son mínimos; cualquier o
 
 **Opción principal (recomendada): QGIS**
 
-Los resultados pueden visualizarse utilizando **:contentReference[oaicite:0]{index=0}**, un sistema de información geográfica de código abierto y de libre acceso.
+Los resultados pueden visualizarse utilizando **QGIS**, un sistema de información geográfica de código abierto y de libre acceso.
 
 **Flujo de trabajo**
 - GeoFlow actúa como **preprocesador**
