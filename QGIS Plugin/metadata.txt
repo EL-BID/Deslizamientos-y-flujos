@@ -1,0 +1,41 @@
+[general]
+name=GeoFlow-SPH
+qgisMinimumVersion=3.16
+qgisMaximumVersion=3.44
+
+description=The plugin is designed to facilitate the setup and execution of SPH-based numerical simulations for various types of geophysical mass flows. It provides an intuitive graphical interface for parameter specification and configuration file generation, bridging the gap between complex numerical methods and practical geoscience applications.
+
+about=The GeoFlow-SPH code was developed in Madrid by an expert research team for almost a decade. It has previously been applied to theoretical, experimental, and real case histories. The latest theoretical framework is based on a two-phase two-layer, depth-integrated model. This model is a general approach for two-phase modeling capable of considering many essential physical aspects, such as the phenomena of pore–water pressure evolution and reproducing the dynamic behavior of debris flows by taking into account their soil properties, including permeability and volume stiffness. The toolbox was developed for IADB (Inter-American Development Bank) as part of the ES-T1343 project. Copyright © 2025 Banco Interamericano de Desarrollo (BID). Authorized use under AM-331-A3.
+
+version=0.1.0
+
+author=Saeid Moussavi Tayyebi, Manuel Pastor, NaturalGIS
+email=saeid.moussavita@alumnos.upm.es
+
+homepage=https://github.com/EL-BID/Deslizamientos-y-flujos/tree/v0.1_WIP
+
+category=Science
+
+# icon specification right after general
+icon=icons/Logo1.png
+
+tags=SPH,debris flows,landslides,geohazards,geotechnical engineering,numerical modelling,mass flows,risk assessment
+
+experimental=True
+deprecated=False
+hasProcessingProvider=True
+
+repository=https://github.com/EL-BID/Deslizamientos-y-flujos
+tracker=https://github.com/EL-BID/Deslizamientos-y-flujos/issues
+# changelog=https://github.com/EL-BID/Deslizamientos-y-flujos/blob/v0.1_WIP/CHANGELOG.md
+
+server=False
+available_for_staging=True
+
+# License
+license=GPL-3.0-or-later
+license_file=LICENSE.md
+copyright=Copyright © 2025 Banco Interamericano de Desarrollo (BID). Authorized use under AM-331-A3.
+
+# Remove the entire [about], [features], [compatibility], [dependencies], and [testing] sections
+# as they are not standard QGIS metadata.txt sections
