@@ -43,11 +43,19 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 ## Step 4: Data File Configuration
 
-1.	Go to **Plugins** in the top menu
+1.	Go to **Plugins** in the top menu.
 2.	Navigate to **GeoFlow-SPH** → **Create Data-Master Files**
 
 <img width="708" height="250" alt="image" src="https://github.com/user-attachments/assets/8a7a3ec9-fa89-434a-b7d6-c424fdf57b68" />
 
+3. This tab contains all parameters necessary for defining the physical simulation.
+
+<img width="1758" height="1007" alt="image" src="https://github.com/user-attachments/assets/5c8e425b-11e9-490a-adb7-2ebd27195f49" />
+
+4. Clicking Generate .Dat File validates all required fields and writes the .MASTER.DAT file to a user-chosen directory.
+5. This message appears when the .dat file has been generated successfully.
+
+<img width="622" height="156" alt="image" src="https://github.com/user-attachments/assets/deaec939-9ac2-4296-98e1-cab5c16ff9a0" />
 
 ## Step 4: Convert DEM to TOP Format
 
