@@ -77,6 +77,8 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 <img width="621" height="180" alt="image" src="https://github.com/user-attachments/assets/3fd37877-76c7-4ad7-9d6a-86491ff57da7" />
 
+6. For simulation runtime parameters and multi-run configurations, see the [Simulation Parameters Reference](https://github.com/EL-BID/Deslizamientos-y-flujos/blob/v0.1_WIP/QGIS%20Plugin/README.MASTER.DAT.md). 
+
 ## Step 6: Convert DEM Raster to TOP
 
 1.	Go to **Plugins** in the top menu.
