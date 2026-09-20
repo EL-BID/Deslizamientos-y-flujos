@@ -52,10 +52,26 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 <img width="1758" height="1007" alt="image" src="https://github.com/user-attachments/assets/5c8e425b-11e9-490a-adb7-2ebd27195f49" />
 
-4. Clicking Generate .Dat File validates all required fields and writes the .MASTER.DAT file to a user-chosen directory.
+4. Clicking Generate .DAT File validates all required fields and writes the .DAT file to a user-chosen directory.
 5. This message appears when the .dat file has been generated successfully.
 
 <img width="622" height="156" alt="image" src="https://github.com/user-attachments/assets/deaec939-9ac2-4296-98e1-cab5c16ff9a0" />
+
+## Step 5: Master File Configuration
+
+1.	Go to **Plugins** in the top menu.
+2.	Navigate to **GeoFlow-SPH** → **Create Data-Master Files**
+
+<img width="708" height="250" alt="image" src="https://github.com/user-attachments/assets/8a7a3ec9-fa89-434a-b7d6-c424fdf57b68" />
+
+3. The second tab controls simulation runtime parameters and multi-run configurations.
+
+<img width="1757" height="1007" alt="image" src="https://github.com/user-attachments/assets/506a8597-93ec-4259-9780-8a40d4146531" />
+
+4. Clicking Generate .MASTER.DAT File validates all required fields and writes the .MASTER.DAT file to a user-chosen directory.
+5. This message appears when the .dat file has been generated successfully.
+
+<img width="621" height="180" alt="image" src="https://github.com/user-attachments/assets/3fd37877-76c7-4ad7-9d6a-86491ff57da7" />
 
 ## Step 4: Convert DEM to TOP Format
 
