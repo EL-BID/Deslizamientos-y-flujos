@@ -73,18 +73,18 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 <img width="621" height="180" alt="image" src="https://github.com/user-attachments/assets/3fd37877-76c7-4ad7-9d6a-86491ff57da7" />
 
-## Step 4: Convert DEM to TOP Format
+## Step 6: Convert DEM Raster to TOP
 
-1.	Open the **Processing Toolbox**.
-2.	Navigate to **IADB** → **Tools** → **DEM to TOP**.
+1.	Go to **Plugins** in the top menu.
+2.	Navigate to **GeoFlow-SPH** → **Convert DEM Raster to TOP**
 
-<img width="707" height="255" alt="image" src="https://github.com/user-attachments/assets/cacfb362-f22c-4564-af20-474f864553ce" />
+<img width="707" height="250" alt="image" src="https://github.com/user-attachments/assets/a0c42d39-ec1d-4847-9c8a-224bed97a9ac" />
 
 3.	Select **dem.tif** as the input file.
 4.	Choose an arbitrary location to save the output.
 5.	Click **Run** to generate the **.TOP** file.
 
-![9](https://github.com/user-attachments/assets/49b928e1-7578-4bd7-a972-44ca26afc78d)
+<img width="857" height="628" alt="image" src="https://github.com/user-attachments/assets/31e33cc5-311a-41d1-9820-d420424df99a" />
 
 ## Step 5: Convert Points to PTS Format
 
