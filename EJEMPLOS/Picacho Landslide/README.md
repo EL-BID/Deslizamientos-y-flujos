@@ -47,7 +47,7 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 1.	Open the **Processing Toolbox**.
 2.	Navigate to **IADB** → **Tools** → **DEM to TOP**.
 
-![8](https://github.com/user-attachments/assets/e4aabf21-423d-49f1-8de0-6fad3cd34120)
+<img width="707" height="255" alt="image" src="https://github.com/user-attachments/assets/cacfb362-f22c-4564-af20-474f864553ce" />
 
 3.	Select **dem.tif** as the input file.
 4.	Choose an arbitrary location to save the output.
