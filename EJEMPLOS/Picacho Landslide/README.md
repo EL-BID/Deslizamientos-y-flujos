@@ -88,7 +88,7 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 <img width="857" height="631" alt="image" src="https://github.com/user-attachments/assets/95534e90-d7d0-4eea-b53f-fa824ddf2b23" />
 
-## Step 6: Convert Initiation Zone to PTS
+## Step 7: Convert Initiation Zone to PTS
 
 1.	Go to **Plugins** in the top menu.
 2.	Navigate to **GeoFlow-SPH** → **Convert Initiation Zone to PTS**
@@ -102,21 +102,21 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 <img width="856" height="1105" alt="image" src="https://github.com/user-attachments/assets/ec45db87-4644-4096-8e69-61787a9da845" />
 
-## Step 6: Run the SPH Model
+## Step 8: Run the SPH Model
 
-1.	Open the **Processing Toolbox**.
-2.	Navigate to **IADB** → **Modeling** → **SPH model (simple mode)**.
+1.Go to **Plugins** in the top menu.
+2.	Navigate to **GeoFlow-SPH** → **Run SPH Model**
 3.	Upload the following input files:
--	**Picacho.MASTER.dat**
--	**Picacho.dat**
--	**Picacho.pts**
--	**Picacho.top**
+-	**Picacho.MASTER.DAT**
+-	**Picacho.DAT**
+-	**Picacho.PTS**
+-	**Picacho.TOP**
 4.	Choose an output folder to store results.
 5.	Click **Run** to start the simulation.
 
-![11](https://github.com/user-attachments/assets/a0e0b1e2-0036-4c65-9ab9-19a2acc9150e)
+<img width="857" height="672" alt="image" src="https://github.com/user-attachments/assets/8cc14452-eb1d-46df-b11d-959a96c11e55" />
 
-## Step 7: Convert Results to NetCDF Format
+## Step 9: Convert Results to NetCDF Format
 
 1. In the chosen folder where the results are stored, you can see the output files such as **Picacho.QGIS_res**.
 2. Open the **Processing Toolbox**.
@@ -126,7 +126,7 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
   ![5](https://github.com/user-attachments/assets/19500d47-fd08-4332-a708-8fade9a366fa)
 
-## Step 8: Visualize Results in QGIS
+## Step 10: Visualize Results in QGIS
 
 1.	Navigate to the output folder and locate **Picacho.nc**.
 2.	Open **Data Source Manager**.
