@@ -105,7 +105,9 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 ## Step 8: Run the SPH Model
 
 1.Go to **Plugins** in the top menu.
+
 2.	Navigate to **GeoFlow-SPH** → **Run SPH Model**
+
 3.	Upload the following input files:
 -	**Picacho.MASTER.DAT**
 -	**Picacho.DAT**
