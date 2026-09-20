@@ -19,9 +19,6 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 <img width="1382" height="961" alt="image" src="https://github.com/user-attachments/assets/7f5aa713-7a10-417d-be20-8046177af2c1" />
 
-
-![12](https://github.com/user-attachments/assets/3d992602-d52d-4247-83f0-48a440ee4c88)
-
 ## Step 2: Configure the Plugin
 
 1.	Go to **Setting**s in the top menu and click **Options**.
