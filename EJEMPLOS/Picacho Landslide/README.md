@@ -14,10 +14,17 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
    
 <img width="1382" height="961" alt="Show also experimental plugins" src="https://github.com/user-attachments/assets/d5d81434-1892-4b13-8228-acdacf4ca504" />
 
-5.	In the search bar, type **GeoFlow-SPH**.
-6.	Select the plugin and click **Install**.
+4.	In the search bar, type **GeoFlow-SPH**.
+5.	Select the plugin and click **Install**.
 
 <img width="1382" height="961" alt="image" src="https://github.com/user-attachments/assets/7f5aa713-7a10-417d-be20-8046177af2c1" />
+
+6. If **netCDF4** is not installed, open the **OSGeo4W Shell** from the Start menu and run the following command:
+
+**python -m pip install netCDF4**
+
+<img width="1382" height="961" alt="image" src="https://github.com/user-attachments/assets/70ec3013-0327-48c5-9c38-94ecc205e07c" />
+
 
 ## Step 2: Configure the Plugin
 
