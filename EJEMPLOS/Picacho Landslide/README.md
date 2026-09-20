@@ -12,6 +12,8 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
    
 - **python -m pip install netCDF4**
 
+<img width="1057" height="572" alt="image" src="https://github.com/user-attachments/assets/6a99bb85-0065-459c-9159-f1c11e4c3b5a" />
+
 2.	Open **QGIS**.
 3.	Go to **Plugins** in the top menu and click on **Manage and Install Plugins**.
 4.	 Check the **Show also experimental plugins** setting
@@ -84,19 +86,21 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 4.	Choose an arbitrary location to save the output.
 5.	Click **Run** to generate the **.TOP** file.
 
-<img width="857" height="628" alt="image" src="https://github.com/user-attachments/assets/31e33cc5-311a-41d1-9820-d420424df99a" />
+<img width="857" height="631" alt="image" src="https://github.com/user-attachments/assets/95534e90-d7d0-4eea-b53f-fa824ddf2b23" />
 
-## Step 5: Convert Points to PTS Format
+## Step 6: Convert Initiation Zone to PTS
 
-1.	Open the **Processing Toolbox**.
-2.	Navigate to **IADB** → **Tools** → **Points to PTS**.
-3.	Select PTS.shp as the input file.
+1.	Go to **Plugins** in the top menu.
+2.	Navigate to **GeoFlow-SPH** → **Convert Initiation Zone to PTS**
+
+<img width="707" height="251" alt="image" src="https://github.com/user-attachments/assets/e4d0503d-3f68-43dc-85ba-502d3aa0a795" />
+
+3.	Select **PTS.shp** as the input file.
 4.	Set **z** as the **Height field**.
 5.	Choose an arbitrary location to save the output.
 6.	Click **Run** to generate the **.PTS** file.
 
 ![10](https://github.com/user-attachments/assets/603cc544-c0ee-4935-b946-482acb90337e)
-
 
 ## Step 6: Run the SPH Model
 
