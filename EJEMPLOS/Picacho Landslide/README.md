@@ -41,6 +41,13 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 ![7](https://github.com/user-attachments/assets/35985b07-2184-467a-a52f-8b17b7d84751)
 
+## Step 4: Data File Configuration
+
+1.	Go to **Plugins** in the top menu
+2.	Navigate to **GeoFlow-SPH** → **Create Data-Master Files**
+
+<img width="708" height="250" alt="image" src="https://github.com/user-attachments/assets/8a7a3ec9-fa89-434a-b7d6-c424fdf57b68" />
+
 
 ## Step 4: Convert DEM to TOP Format
 
