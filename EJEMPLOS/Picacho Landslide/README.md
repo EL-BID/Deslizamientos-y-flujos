@@ -100,7 +100,7 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 5.	Choose an arbitrary location to save the output.
 6.	Click **Run** to generate the **.PTS** file.
 
-![10](https://github.com/user-attachments/assets/603cc544-c0ee-4935-b946-482acb90337e)
+<img width="856" height="1105" alt="image" src="https://github.com/user-attachments/assets/ec45db87-4644-4096-8e69-61787a9da845" />
 
 ## Step 6: Run the SPH Model
 
