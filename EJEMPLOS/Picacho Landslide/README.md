@@ -10,7 +10,7 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 1. If **netCDF4** is not installed, open the **OSGeo4W Shell** from the Start menu and run the following command:
    
-**python -m pip install netCDF4**
+- **python -m pip install netCDF4**
 
 2.	Open **QGIS**.
 3.	Go to **Plugins** in the top menu and click on **Manage and Install Plugins**.
