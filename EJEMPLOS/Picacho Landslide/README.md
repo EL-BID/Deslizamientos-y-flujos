@@ -54,7 +54,7 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 <img width="1758" height="1007" alt="image" src="https://github.com/user-attachments/assets/5c8e425b-11e9-490a-adb7-2ebd27195f49" />
 
-4. Clicking Generate .DAT File validates all required fields and writes the .DAT file to a user-chosen directory.
+4. Clicking Generate **.DAT** File validates all required fields and writes the **.DAT** file to a user-chosen directory.
 5. This message appears when the .dat file has been generated successfully.
 
 <img width="622" height="156" alt="image" src="https://github.com/user-attachments/assets/deaec939-9ac2-4296-98e1-cab5c16ff9a0" />
@@ -70,7 +70,7 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 <img width="1757" height="1007" alt="image" src="https://github.com/user-attachments/assets/506a8597-93ec-4259-9780-8a40d4146531" />
 
-4. Clicking Generate .MASTER.DAT File validates all required fields and writes the .MASTER.DAT file to a user-chosen directory.
+4. Clicking Generate **.MASTER.DAT** File validates all required fields and writes the **.MASTER.DAT** file to a user-chosen directory.
 5. This message appears when the .dat file has been generated successfully.
 
 <img width="621" height="180" alt="image" src="https://github.com/user-attachments/assets/3fd37877-76c7-4ad7-9d6a-86491ff57da7" />
@@ -104,9 +104,10 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 ## Step 8: Run the SPH Model
 
-1.Go to **Plugins** in the top menu.
+1. Go to **Plugins** in the top menu.
+2.	Navigate to **GeoFlow-SPH** → **Run SPH Model**.
 
-2.	Navigate to **GeoFlow-SPH** → **Run SPH Model**
+<img width="708" height="252" alt="image" src="https://github.com/user-attachments/assets/97b0b380-aa8d-4823-b022-6032211cf0a9" />
 
 3.	Upload the following input files:
 -	**Picacho.MASTER.DAT**
@@ -121,12 +122,15 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 ## Step 9: Convert Results to NetCDF Format
 
 1. In the chosen folder where the results are stored, you can see the output files such as **Picacho.QGIS_res**.
-2. Open the **Processing Toolbox**.
-3. Navigate to **IADB** → **Tool**s → **RES to NetCDF**.
-4. Upload the **Picacho.QGIS_res** file.
-5. Convert it to .nc format, suitable for visualizing flow propagation in QGIS.
+2. Go to **Plugins** in the top menu.
+3. Navigate to **GeoFlow-SPH** → **Convert RES to netCDF**.
 
-  ![5](https://github.com/user-attachments/assets/19500d47-fd08-4332-a708-8fade9a366fa)
+<img width="707" height="251" alt="image" src="https://github.com/user-attachments/assets/2634a203-bf4b-45b3-9584-decee2d6dfb4" />
+
+5. Upload the **Picacho.QGIS_res** file.
+6. Convert it to **.nc format**, suitable for visualizing flow propagation in QGIS.
+
+<img width="853" height="671" alt="image" src="https://github.com/user-attachments/assets/0adba205-39c8-40e1-8dc9-e8d04015110e" />
 
 ## Step 10: Visualize Results in QGIS
 
