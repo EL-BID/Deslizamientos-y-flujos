@@ -59,6 +59,8 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 
 <img width="622" height="156" alt="image" src="https://github.com/user-attachments/assets/deaec939-9ac2-4296-98e1-cab5c16ff9a0" />
 
+6. For input parameter details, see the [Input Parameters Reference](https://github.com/EL-BID/Deslizamientos-y-flujos/blob/v0.1_WIP/QGIS%20Plugin/README.DAT.md).
+
 ## Step 5: Master File Configuration
 
 1.	Go to **Plugins** in the top menu.
