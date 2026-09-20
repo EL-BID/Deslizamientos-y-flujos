@@ -1,5 +1,7 @@
 # Input Parameters Reference
 
+<img width="1755" height="1007" alt="image" src="https://github.com/user-attachments/assets/9cdc9046-57fe-48ce-81c8-292e16388103" />
+
 ## Section A: Model Identification
 
 ### Name of Data File
