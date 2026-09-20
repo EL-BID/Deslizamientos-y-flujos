@@ -31,7 +31,7 @@ The Picacho landslide in San Salvador in 1982 was caused by heavy rainfall. It i
 2.	Navigate to the **Processing** section.
 3.	Upload the required **executable file** to enable processing.
 
-![3](https://github.com/user-attachments/assets/1bf7c4ef-0b10-4309-91a1-805ad7d79381)
+<img width="1170" height="808" alt="image" src="https://github.com/user-attachments/assets/38e348d3-cbf2-411f-bfa6-f2d21d95540a" />
 
 ## Step 3: Upload Input Files
 
